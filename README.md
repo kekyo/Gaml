@@ -1,5 +1,7 @@
 # Gaml - GTK# on Xaml
 
+![Hello world](GamlHelloWorld.png)
+
 * TODO:
 
 ## License
